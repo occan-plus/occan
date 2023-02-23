@@ -16,3 +16,7 @@ Notre objectif est donc de créer une application mobile dans le domaine du mobi
 
 Notre nouveau concept permettrait alors de répondre aux problématiques actuelles, puisque si la seconde main se veut économique et gratifiante elle est aussi écologique. Finalement, il s’agit d’un excellent compromis afin de contribuer à réduire la surconsommation qui est le fléau écologique de notre époque.
 
+
+Rapport : https://github.com/occan-plus/occan/blob/main/PSB_2022_My_Little_Start-up.pdf
+
+Video   : https://github.com/occan-plus/occan/blob/main/Video_OCCAN%2B.mp4
