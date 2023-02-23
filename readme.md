@@ -1,6 +1,4 @@
-PARIS SCHOOL OF BUSINESS
-
-*PROMOTION 2022, 2ème année BACHELOR*
+PARIS SCHOOL OF BUSINESS, *PROMOTION 2022, 2ème année BACHELOR*
 
 
 # Une application d’achat-vente, d’échange de meubles d’occasion entre particuliers
