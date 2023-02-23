@@ -1,11 +1,11 @@
 PARIS SCHOOL OF BUSINESS
-PROMOTION 2022, 2ème année BACHELOR
+*PROMOTION 2022, 2ème année BACHELOR*
 
 
 # Une application d’achat-vente, d’échange de meubles d’occasion entre particuliers
 Diminuer l’impact environnemental
 
-  - Rapport : [lien](https://github.com/occan-plus/occan/blob/main/PSB_2022_My_Little_Start-up.pdf)
+  - **Rapport** : [lien](https://github.com/occan-plus/occan/blob/main/PSB_2022_My_Little_Start-up.pdf)
   - Video   : [lien](https://github.com/occan-plus/occan/blob/main/Video_OCCAN%2B.mp4)
 
 
