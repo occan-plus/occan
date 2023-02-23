@@ -5,6 +5,9 @@ PROMOTION 2022, 2ème année BACHELOR
 Une application d’achat-vente, d’échange de meubles d’occasion
 entre particuliers - Diminuer l’impact environnemental
 
+Rapport : https://github.com/occan-plus/occan/blob/main/PSB_2022_My_Little_Start-up.pdf
+Video   : https://github.com/occan-plus/occan/blob/main/Video_OCCAN%2B.mp4
+
 
 PREAMBULE
 
@@ -19,8 +22,3 @@ Afin de rester dans une démarche circulaire tout au long de la vie de nos produ
 Notre objectif est donc de créer une application mobile dans le domaine du mobilier d’occasion. En effet, nous avons remarqué que chaque année des milliers de tonnes de meubles finissent à la décharge, ce que nous ne pouvons donc plus négliger. Ce problème s’explique majoritairement par nos habitudes de consommation qui consistent à continuellement acheter puis jeter sans même réfléchir aux conséquences. Le cycle de production des nouveaux mobiliers est beaucoup trop énergivore, il est fondamental de trouver des alternatives.
 
 Notre nouveau concept contribuerait à répondre aux problématiques actuelles, puisque si la seconde main se veut économique et gratifiante elle est aussi écologique. Il s’agit d’un compromis raisonable contribuant à réduire la surconsommation, fléau écologique de notre époque.
-
-
-Rapport : https://github.com/occan-plus/occan/blob/main/PSB_2022_My_Little_Start-up.pdf
-
-Video   : https://github.com/occan-plus/occan/blob/main/Video_OCCAN%2B.mp4
